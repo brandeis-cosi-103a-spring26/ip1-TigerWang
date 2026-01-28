@@ -1,4 +1,4 @@
-package edu.brandeis.cosi103a.ip1;
+package edu.brandeis.cosi103a.ip2;
 
 import static org.junit.jupiter.api.Assertions.*;
 
